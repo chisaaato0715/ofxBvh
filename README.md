@@ -7,4 +7,4 @@
 - updataFK()　　　　FK計算の関数
 - selectJoint()　　　 最近傍の関節を選択
 
-[InverseKinematics](https://github.com/chisaaato0715/ofxBvh)
+[InverseKinematics](https://github.com/chisaaato0715/InverseKinematics)
